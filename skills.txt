@@ -1,0 +1,1 @@
+Skills: Linux terminal commands, JavaScript, Git, Postman, DBeaver

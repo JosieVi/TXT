@@ -1,0 +1,5 @@
+Favorite movie: Lord of the Rings
+Favorite TV show: Queen's Gambit
+Favorite food: Fruits
+Favorite time of year: Spring
+Desired country: Finland
