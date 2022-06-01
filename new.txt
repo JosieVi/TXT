@@ -1,0 +1,4 @@
+Name: Olga
+Age: 36
+Number of pets: 0
+Desired salary: 3000$
